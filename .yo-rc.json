@@ -1,0 +1,25 @@
+{
+  "generator-ngx-library": {
+    "authorName": "Pratik Kelwalkar",
+    "authorEmail": "life4arsenal@gmail.com",
+    "githubUsername": "pratikthecook",
+    "projectName": "ngx-prism",
+    "projectVersion": "1.0.0",
+    "projectDescription": "Angular library built for Code Highlighting using Prismjs",
+    "projectKeywords": [
+      "ng",
+      "angular",
+      "library"
+    ],
+    "ngPrefix": "ng-prism",
+    "ngVersion": "4.0.0",
+    "ngModules": [
+      "core",
+      "common",
+      "http",
+      "platform-browser"
+    ],
+    "useGreenkeeper": true,
+    "useCompodoc": true
+  }
+}
